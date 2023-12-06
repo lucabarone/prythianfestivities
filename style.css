@@ -43,7 +43,7 @@ html {
 .gonkForm label {
   font-weight: 400;
   color: white;
-  font-size: 1.8em;
+  font-size: 2.3em;
   text-shadow: 1px 1px #000000;
 }
 
@@ -90,7 +90,7 @@ html {
 .smallLabel {
   padding-top: 3em;
   padding-bottom: 2em !important;
-  font-size: 1.4em !important;
+  font-size: 2em !important;
   width: 100%;
   display: inline-block;
   margin: 0 auto !important;
