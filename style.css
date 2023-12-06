@@ -82,7 +82,7 @@ html {
 
 #q2form,
 #q3form,
-#cameoVid,
+#cameoVids,
 #volWarning {
   display: none;
 }
@@ -116,7 +116,7 @@ video {
   left: 50%;
   min-height: 100%;
   width: auto;
-  height: 100vh;
+  height: 100%;
   z-index: -100;
   transform: translateX(-50%) translateY(-50%);
   background: url("//demosthenes.info/assets/images/polina.jpg") no-repeat;
